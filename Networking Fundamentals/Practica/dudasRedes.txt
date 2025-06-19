@@ -1,0 +1,4 @@
+* Si un switch es layer 3 también es layer 2 
+*Donde esta el cuello de botella cuando stackeo sin tener el puerto de stackeo
+*modulo lc duplex != conector LC, cual es macho y cual hembra
+*Modulo y el conector LC, relación?
